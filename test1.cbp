@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="test1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jeevan/ClionProjects/test1"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jeevan/ClionProjects/test1"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jeevan/ClionProjects/test1"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1">
+				<Option output="/home/jeevan/ClionProjects/test1/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jeevan/ClionProjects/test1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 test1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test1/fast">
+				<Option output="/home/jeevan/ClionProjects/test1/test1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jeevan/ClionProjects/test1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 test1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jeevan/ClionProjects/test1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jeevan/ClionProjects/test1/.idea/81Step.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1010Stream.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/101SortedMerge.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/102Anagram.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/103Rotated.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/104NoSize.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/105Sparse.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/107MissingInt.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/109Matrix.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/10MergeSort.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/10QuickSort.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/15oneAway.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1610Living.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1611Diving.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1616SubSort.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1617Cont.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1618PatternMatching.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1619Pond.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1620Dictionary.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1620Keypad.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1620UsingTrie.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1621SumSwap.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1622Ant.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1624Pairs.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1625LRU.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1625LRUMap.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1626Calculator.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/165TrialingZeros.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/166SmallDiff.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/168English.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/169Operations.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/16Compress.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1710Majority.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1711Word.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1711WordDict.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1712BiNode.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1713ReSpace.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1714kSmallest.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1715LOngestWord.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1716Masseuse.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1717MultiSaerch2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1717MultiSearch.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1718SuperSeq.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1719Missing2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/171Add.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1720Median.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1722Transformer.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1722Transformer2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1723MaxSquare.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1723MaxSquare2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1724MaxSubArray.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1724MaxSubArray1.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/1726Similarity.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/172Shuffle.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/174Missing.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/175NumLetters.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/176Count2s.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/176Count2sTB.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/177Baby.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/178Circus.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/178CircusLongest.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/179KMultiples.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/17rotate.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/18ZeroMatrix.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/19StringRotation.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/21RemoveDups.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/27Intersect.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/2Repeating.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/33StackPlates.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/35SortRec.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/36CatDog.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/3Stacks.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/410Subtree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/411Random.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/412Sum.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/41Route.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/43Depth.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/44BalancedTree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/46Successor.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/51Bit.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/810PaintFill.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/811Coins.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/812Queens.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/813Stack.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/814Bool.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/82Game.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/83Magic.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/84PowerSet.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/85Multiply.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/87Permute.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/89Parens.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/AlienDictionary.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/AlienDictionary2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/AllElementsSame.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/AmazonLeetCode.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/BTreeTarversals.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/BTreeVertical.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Banana.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/BeautifulArrangement.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/BikePark.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/BinaryAncestors.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/BracketEqualPoint.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/BuildLowestNum.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CPrintN.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CalendarList.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Candies.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CloneBTree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CloneBtreeRandom.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CloneGraph.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CloneLL.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Compress.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CountHalfNodes.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Cpointers.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CycleGraph.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CycleUndirectedGraph.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Destructors.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/EmployeeUnderManager.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/ForkExample.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GG2MissingNumbers.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GG4Sum.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGBSTOneChild.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGBSTPrint.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGBTtoBST.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGBinaryString.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGBinarySubtree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGBitonic.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGBitsXOR.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGCeilFloor.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGCheckCompleteTree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGClosestBST.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGCuttingRod.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGDecodeString.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGDistinctTransformations.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGDuplicateSubtrees.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGEditDistSet5.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGEggDrop.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGEggPuzzle.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGFirstOccurence.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGFormPalindrome.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGGameAlternate.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGHighway.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGIndependentSet.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGIndependentSet2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGInterleaving.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGJempingNumbers.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGKnapSack0_1.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGLeafBSTFromPreOrder.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGLongParanthSubstr.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGLongSubstrUniqKChars.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGLongestKUniqSubstr.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGLongestSubseq.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMInMaxLessComp.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMaxAbsDiffContSubArraysSum.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMaxCommonSubstring.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMaxContSum1D.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMaxContSum2D.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMaxSubArrayDiff.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMaxSumSubseq.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMaximumIndex.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMaximumIndex2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMedianSortedArraysSameSize.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMergeSortLL.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMinDepthBTree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMinInsPalSet28.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMinJumps.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMissingRepeating.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGModuloExponent.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGMultiplyStrings.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGOperatorOverloading.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGOptimalBST.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGOverlappingIntervals.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGPalindromePartitioning.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGParanthesis.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGPartition.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGPrintMaxAs.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGQueueUsingStack.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGRandomizedArray.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGReplaceACB.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGReplaceOWithX.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGRoman.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGRotate2D.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGRotatedPivot.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGSortStack.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGSortedLLtoBST.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGSpecialKeyboard.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGSpecialKeywordRecursive.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGStrStr.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGStringSubseq.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGSubSumArray.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGSubsetSum.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGSubtreesSum.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGTotalShapes.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGTournamentTree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGTripletSumZero.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGWordBoggle.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGWordBreak.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GGkPalindrome.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Google2NonRepeating.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleArrayFrequencyRepeat.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleCliff.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleConnectAdjacent.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleInterleaving.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleJotto.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleLRU.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleLongestBranchNaryTree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GooglePalidromeLL.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GooglePhoneKeypadWord.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleSubtree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleSumPaths.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/GoogleWordBreak.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HR.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRAbbreviation.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRAbbreviation2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRAngryKids.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRAngryKids2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRBalls.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRBikeRace.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRBoneTrousle.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRClosestNumbers.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRCoins.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRCommonAncestor.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRCountLuck.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRCountLuck2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRCountSort.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRCountSort2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRCupCakes.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRCutTree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRCutTree2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRFairCut.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRFlippingMatrix.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRFraudulentNotifications.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRGCD.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRGCD2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRGameOfStones.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRHuffman.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRIcecream.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRInsertionSortAnalysis2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRJimOrders.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRLenaSort.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRLily.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRLuckyNumbers.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRMakingCandies.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRMaxMinGreedy.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRMaximumSubarray.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRMedian.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRMissing.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRMissionPoints.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRModulo.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRModulo2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRNSum.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRNewYearChaos.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRNuage.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRNumberGameTree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRPairs.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRPermute2Arrays.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRQuadruples.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRQuadruples2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRRotation.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRRotation2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRSamSubstrings.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRShortPalindrome.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRShortPalindrome2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRShortPalindrome3.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRSum.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRTowersRevisited.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRTrain.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRTrain2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRTransmitters.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRVerticalStrips.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRVerticalStrips2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRVerticalStrips3.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/HRWindowMax.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/ImplementStack.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/JamBathroomStalls.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/JamFamilyHotel.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/JamFamilyHotel2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/JamFashion.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/JamPancakes.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/JamTidy.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/JumpingNumbers.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/KLargest.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/KSmallestBSTAugmented.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/KSortedArray.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LCABtree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LargestSumSubArray.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LeetCode.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LeetCode2.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LeetCode3.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LeetCode4.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LeftNodeBtree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LexicographicPerm.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LinkedList.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/ListNode.h">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/ListRemoveDuplicates.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LongestContinousSubarray.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LongestPalindomeLL.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/LongestParanthesis.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Loot.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MAthWorksShallowCopy.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MathWorksPointers.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MathWorksStruct.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MaxAreaRectHistogram.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MaxHeap.h">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MaxSubArraySize.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MaxSumLeafPath.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MaximumXOR.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MergeSort.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MergeSort.h">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MergeSortLLPractice.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MinHeap.h">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/MinInSortedRotated.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/NextLexicographic.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/NoSameAgjacent.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/PalindromeAppends.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/PascalTriangleGlass.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Peak2DLocalMaxima.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/PeakElement_LocalMaxima.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/QueueStack.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/QuickSortLL.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/QuickSortPractice.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/RandomNUmber.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/References.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/References1.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/SmallestRangeKLists.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/SortSquares.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/SpacialSymmetricString.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/SplitString.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/StringChained.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/StringContainsOtherStringSmallestWindow.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Test.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Test1.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/TinyURL.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/TreeNode.h">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/TreeWithSameValues.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/Trie.h">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/VericalSumBTree.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/VirtualTest.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/arrayPairSum.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/cmake-build-debug/42BST.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/cmake-build-debug/Diamond.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/cmake-build-debug/ReverseCircularLL.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/kNonRepeat.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/main.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/myStack.h">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/permure12.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/test.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/test23.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/testing.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/uniqueChars.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/url13.cpp">
+			<Option target="test1"/>
+		</Unit>
+		<Unit filename="/home/jeevan/ClionProjects/test1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
